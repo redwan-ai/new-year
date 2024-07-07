@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+#wittgenstein-all {
+    font-family: "Wittgenstein", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style : normal;
+  }
+
+  .header1{
+    container-type: fixed;
+    background-image: linear-gradient(45deg,
+    rgba(7, 2, 17, 100),
+    rgba(255, 255, 255, 0)),url(../images/Banner\ Image.png);
+    width: 1320px;
+    height: 550px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 167px 329px 187px 359px;
+    margin: 20px 0 0 0px;
+    margin-left: none;
+    justify-content: center;
+      }
+  .header1 h1{
+    container-type: fixed;
+    font-size: 85px;
+    font-weight: 600;
+    color: #FFFFFF;
+  }
+  .header1 h3{
+    color: #FFFFFF;
+    font-size: 50px; 
+  }
+  .header2{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bolder;
+text-align: center;
+
+  }
+ 
