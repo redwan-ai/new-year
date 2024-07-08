@@ -60,7 +60,7 @@ column-gap: 2px;
    position: relative;
       background-image:linear-gradient(45deg,
       rgba(7, 2, 17, 100),
-      rgba(255, 255, 255, 0)),url(../images/Vectorrr.png);
+      rgba(255, 255, 255, 0)),url(../images/vector.png);
       color: #FFFFFF;
       width: 1500px;
       height: 650px;
@@ -69,10 +69,11 @@ column-gap: 2px;
       padding: 20px 329px 187px 195px;
       margin: 0 0 0 0px;
       background-position: center;
-    
+  
   }
   .header3-hp{
-    font-size: 120px;
+    font-size: 110px;
+    font-weight: bolder;
   }
   .header3-hppl{
     font-size: 32px;
@@ -85,3 +86,28 @@ column-gap: 2px;
     background: none;
     color: #FFFFFF;
   }
+main>div .middle {
+  background-color: rgba(255, 0, 0, 0.447) ;
+  opacity: 80%;
+  color: #000000;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 900;
+  padding: 120px 0 120px 0px;
+  margin: auto;
+}
+ .middle>p span{
+  color: #FF0000;
+}
+.button-btn{
+  background-color: #FF0000;
+  color: #FFFFFF;
+  margin: auto;
+  border: none;
+  font-size: 25px;
+  height: 40px;
+
+  align-items: center;
+  display: block;
+  margin-top: 50px;
+}
